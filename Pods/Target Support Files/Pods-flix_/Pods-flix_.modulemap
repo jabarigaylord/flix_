@@ -1,0 +1,6 @@
+framework module Pods_flix_ {
+  umbrella header "Pods-flix_-umbrella.h"
+
+  export *
+  module * { export * }
+}
